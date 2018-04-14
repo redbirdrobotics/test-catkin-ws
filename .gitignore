@@ -1,6 +1,7 @@
 # catkin stuff:
 build/
 devel/
+.catkin_tools/
 
 
 
