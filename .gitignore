@@ -5,6 +5,13 @@ logs/
 .catkin_tools/
 
 
+# vim
+*.swp
+
+
+# python
+*.pyc
+
 
 # C++ stuff:
 
