@@ -6,4 +6,3 @@ wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/inst
 chmod +x install_geographiclib_datasets.sh # make sure we have permissions
 ./install_geographiclib_datasets.sh
 ```
-
