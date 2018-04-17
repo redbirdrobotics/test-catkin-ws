@@ -39,6 +39,7 @@ class Controller(object):
         self._takeoff_altitude = 2.0
         self._target_velocity = (0.0, 0.0, 0.0)
         self._target_position = (0.0, 0.0, 0.0)
+	self._target_position = (0.0, 0.0, 0.0)
         self._target_position = None
         self._allowed_error = 0.25
         self._mode = Control_Mode.INITIAL

@@ -3,7 +3,7 @@
     <machine name="redbird-vehicle" address="192.168.0.164" user="redbird" default="true" />
 
     <!-- Ground Machine -->
-    <!-- <machine name="me" address="192.168.0.100" user="me" default="false" env-loader="~/catkin_ws/devel/env.sh" /> -->
+    <!-- <machine name="me" address="192.168.0.149" user="redbird-general" default="false" env-loader="~/catkin_ws/devel/env.sh" /> -->
 
     <!-- Hande MAVROS launch -->
   <arg name="fcu_url" default="/dev/ttyUSB0:921600" />
